@@ -2,34 +2,34 @@ Nginx Server
 ========
 # Nginx Server
 
-`Nginx Server` ÃüÁîÐÐÔËÐÐÐ¡¹¤¾ß£¬ÓÃ»§±¾µØÒ³Ãæ²âÊÔ
+`Nginx Server` å‘½ä»¤è¡Œè¿è¡Œå°å·¥å…·ï¼Œç”¨æˆ·æœ¬åœ°é¡µé¢æµ‹è¯•
 
-## ÌØµã
+## ç‰¹ç‚¹
 
-1. ÎÞÐè°²×°£¬Ö±½ÓÊ¹ÓÃ¡£
-2. ÔËÐÐ¿ìËÙ£¬Ö»ÄÜÖ§³ÖHTML¡£
-3. Ô­°æµÚÈý·½·þÎñÈí¼þ£¬Ö±½ÓÌæ»»£¬·½±ã°æ±¾¸üÐÂ¡£
+1. æ— éœ€å®‰è£…ï¼Œç›´æŽ¥ä½¿ç”¨ã€‚
+2. è¿è¡Œå¿«é€Ÿï¼Œåªèƒ½æ”¯æŒHTMLã€‚
+3. åŽŸç‰ˆç¬¬ä¸‰æ–¹æœåŠ¡è½¯ä»¶ï¼Œç›´æŽ¥æ›¿æ¢ï¼Œæ–¹ä¾¿ç‰ˆæœ¬æ›´æ–°ã€‚
 
 ## Nginx Server layout
 
-    Nginx ServerÄ¿Â¼½á¹¹
-        ©¦
-        ©À©¤conf - ÏîÄ¿ÅäÖÃÎÄ¼þ
-        ©¦  ©¦
-        ©¦  ©¸©¤nginx - nginx·þÎñÆ÷ÅäÖÃ
-        ©¦
-        ©À©¤logs - ÏîÄ¿ÈÕÖ¾
-        ©¦  ©¦
-        ©¦  ©¸©¤nginx - nginx·þÎñÆ÷ÈÕÖ¾
-        ©¦
-        ©À©¤nginx-0.8.50 - nginx·þÎñÆ÷£¬ºóÃæÊÇ°æ±¾ºÅ
-        ©¦
-        ©À©¤sbin - ÏîÄ¿½Å±¾
-        ©¦  ©¦
-        ©¦  ©À©¤nginx.bat - nginx·þÎñÆ÷ÔËÐÐ½Å±¾
-        ©¦  ©¦
-        ©¦  ©¸©¤server.bat - ·þÎñÆ÷ÔËÐÐ»ù´¡½Å±¾
-        ©¦
-        ©À©¤tools - ÏîÄ¿¹¤¾ß
-        ©¦
-        ©¸©¤nginx.bat - ÏîÄ¿Æô¶¯½Å±¾
+    Nginx Serverç›®å½•ç»“æž„
+        â”‚
+        â”œâ”€conf - é¡¹ç›®é…ç½®æ–‡ä»¶
+        â”‚  â”‚
+        â”‚  â””â”€nginx - nginxæœåŠ¡å™¨é…ç½®
+        â”‚
+        â”œâ”€logs - é¡¹ç›®æ—¥å¿—
+        â”‚  â”‚
+        â”‚  â””â”€nginx - nginxæœåŠ¡å™¨æ—¥å¿—
+        â”‚
+        â”œâ”€nginx-0.8.50 - nginxæœåŠ¡å™¨ï¼ŒåŽé¢æ˜¯ç‰ˆæœ¬å·
+        â”‚
+        â”œâ”€sbin - é¡¹ç›®è„šæœ¬
+        â”‚  â”‚
+        â”‚  â”œâ”€nginx.bat - nginxæœåŠ¡å™¨è¿è¡Œè„šæœ¬
+        â”‚  â”‚
+        â”‚  â””â”€server.bat - æœåŠ¡å™¨è¿è¡ŒåŸºç¡€è„šæœ¬
+        â”‚
+        â”œâ”€tools - é¡¹ç›®å·¥å…·
+        â”‚
+        â””â”€nginx.bat - é¡¹ç›®å¯åŠ¨è„šæœ¬
