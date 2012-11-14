@@ -1,0 +1,61 @@
+2012/11/14 23:20:40 [notice] 9016#8752: using the "select" event method
+2012/11/14 23:20:40 [notice] 9016#8752: nginx/1.0.8
+2012/11/14 23:20:40 [info] 9016#8752: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:20:40 [notice] 9016#8752: start worker processes
+2012/11/14 23:20:40 [notice] 9016#8752: start worker process 9932
+2012/11/14 23:20:42 [notice] 9932#8904: nginx/1.0.8
+2012/11/14 23:20:42 [info] 9932#8904: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:20:42 [notice] 9932#8904: create thread 8624
+2012/11/14 23:20:42 [notice] 9932#8904: create thread 8876
+2012/11/14 23:20:42 [notice] 9932#8904: create thread 6352
+2012/11/14 23:21:00 [error] 9932#8624: *6 CreateFile() "E:\GitHub\\h5slides/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:21:00 [error] 9932#8624: *6 CreateFile() "E:\GitHub\\h5slides/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:21:12 [error] 9932#8624: *2 CreateFile() "E:\GitHub\\h5slides/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:21:12 [error] 9932#8624: *2 CreateFile() "E:\GitHub\\h5slides/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:23:08 [notice] 10236#8680: using the "select" event method
+2012/11/14 23:23:08 [notice] 10236#8680: nginx/1.0.8
+2012/11/14 23:23:08 [info] 10236#8680: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:23:08 [notice] 10236#8680: start worker processes
+2012/11/14 23:23:08 [notice] 10236#8680: start worker process 6224
+2012/11/14 23:23:08 [notice] 6224#1300: nginx/1.0.8
+2012/11/14 23:23:08 [info] 6224#1300: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:23:08 [notice] 6224#1300: create thread 8308
+2012/11/14 23:23:08 [notice] 6224#1300: create thread 7560
+2012/11/14 23:23:08 [notice] 6224#1300: create thread 8600
+2012/11/14 23:23:14 [error] 9932#8624: *7 CreateFile() "E:\GitHub\\h5slides/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:23:14 [error] 9932#8624: *7 CreateFile() "E:\GitHub\\h5slides/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:23:21 [info] 9932#8624: *8 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:23:21 [info] 9932#8624: *11 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:23:21 [info] 9932#8624: *10 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:23:21 [info] 9932#8624: *9 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:23:31 [info] 9932#8624: *12 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:25:24 [notice] 7388#6968: using the "select" event method
+2012/11/14 23:25:24 [notice] 7388#6968: nginx/1.0.8
+2012/11/14 23:25:24 [info] 7388#6968: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:25:24 [notice] 7388#6968: start worker processes
+2012/11/14 23:25:24 [notice] 7388#6968: start worker process 9924
+2012/11/14 23:25:25 [notice] 9924#9440: nginx/1.0.8
+2012/11/14 23:25:25 [info] 9924#9440: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:25:25 [notice] 9924#9440: create thread 9968
+2012/11/14 23:25:25 [notice] 9924#9440: create thread 9896
+2012/11/14 23:25:25 [notice] 9924#9440: create thread 9788
+2012/11/14 23:25:29 [error] 9924#9968: *1 CreateFile() "E:\GitHub\\h5slides/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:25:29 [error] 9924#9968: *1 CreateFile() "E:\GitHub\\h5slides/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:35:53 [notice] 8792#10080: using the "select" event method
+2012/11/14 23:35:53 [notice] 8792#10080: nginx/1.0.8
+2012/11/14 23:35:53 [info] 8792#10080: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:35:53 [notice] 8792#10080: start worker processes
+2012/11/14 23:35:53 [notice] 8792#10080: start worker process 8336
+2012/11/14 23:35:53 [notice] 8336#10232: nginx/1.0.8
+2012/11/14 23:35:53 [info] 8336#10232: OS: 260100 build:7600, "", suite:100, type:1
+2012/11/14 23:35:53 [notice] 8336#10232: create thread 9968
+2012/11/14 23:35:53 [notice] 8336#10232: create thread 9236
+2012/11/14 23:35:53 [notice] 8336#10232: create thread 9672
+2012/11/14 23:36:03 [error] 8336#9968: *1 CreateFile() "E:\GitHub\\h5slides/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:36:03 [error] 8336#9968: *1 CreateFile() "E:\GitHub\\h5slides/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2012/11/14 23:36:07 [info] 8336#9968: *2 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:36:07 [info] 8336#9968: *5 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:36:07 [info] 8336#9968: *4 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:36:07 [info] 8336#9968: *3 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:36:08 [info] 8336#9968: *6 client closed prematurely connection while reading client request line, client: 127.0.0.1, server: localhost
+2012/11/14 23:36:08 [info] 8336#9968: *1 client 127.0.0.1 closed keepalive connection
